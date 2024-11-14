@@ -2,8 +2,7 @@
 
 This is the Github repository for the University of Georgia Physics and Astronomy Education Research Group (G-PhAsER group). If you are a member of this group and need access, please email Dr. Nicholas Young.
 
-**Reminder:** No sensitive data is allowed to be uploaded to GitHub. This is a violation of our IRB and UGA policies. As a general rule, if your friend couldn't access the data for your project via a Google Search and/or without your UGA login information, it shouldn't be in this repo.
-
+**Reminder:** No sensitive data is allowed to be uploaded to GitHub. This is a violation of our IRB and UGA policies. As a general rule, if your friend couldn't access the data for your project via a Google Search and/or without your UGA login information, it shouldn't be in this repo. To reduce this possiblity, please ensure that *.xlsx and *.csv are included in your .gitignore file. This will stop Github from trying to upload these files types, which are common ways we store our data. It is still your responsbility to ensure that you are not uploading anything you shouldn't here.
 <!--
 
 **Here are some ideas to get you started:**
